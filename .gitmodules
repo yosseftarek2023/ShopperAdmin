@@ -1,0 +1,3 @@
+[submodule "ShopperAdmin"]
+    path = ShopperAdmin
+    url = https://github.com/yosseftarek2023/ShopperAdmin.git
